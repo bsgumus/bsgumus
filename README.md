@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @bsgumus
-- 👀 I’m interested in Unity and data analysis.
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on unity
+- 👋 Hi, I’m @bsgumus based in Ankara the capital city of Türkiye! 
+- 👀 I’m interested in Unity, JS and data analysis.
 - 📫 How to reach me bahadirsgumus@gmail.com
 
 <!---
